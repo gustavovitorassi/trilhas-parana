@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Rolagem suave ao clicar nos links do menu (respeita quem prefere menos movimento) */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Foco visível para quem navega pelo teclado */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #047857;
+  outline-offset: 2px;
+}
