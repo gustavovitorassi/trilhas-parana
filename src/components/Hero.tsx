@@ -1,5 +1,6 @@
 // Primeira área da página: título, texto, botão e os três números.
 // Recebe por props o total de trilhas, que aparece no primeiro número.
+// Enquanto as trilhas não chegam (ou se der erro), o total é 0 e aparece um traço.
 type Props = {
   totalTrilhas: number
 }
@@ -26,7 +27,9 @@ function Hero({ totalTrilhas }: Props) {
 
         <div className="mt-7 grid grid-cols-3 gap-2 md:gap-4 lg:mt-0 lg:grid-cols-1">
           <div className="rounded-lg border border-emerald-200 bg-white py-2.5 text-center md:py-3.5">
-            <strong className="block text-xl text-emerald-900">{totalTrilhas}</strong>
+            <strong className="block text-xl text-emerald-900">
+              {totalTrilhas === 0 ? '—' : totalTrilhas}
+            </strong>
             <span className="text-xs text-stone-500">trilhas</span>
           </div>
           <div className="rounded-lg border border-emerald-200 bg-white py-2.5 text-center md:py-3.5">
