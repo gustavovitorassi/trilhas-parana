@@ -7,7 +7,7 @@ function Rodape() {
           <strong className="mb-1 block text-[13px] text-stone-800">Trilhas do Paraná</strong>
           TCD de Front-End · React, TypeScript e Tailwind
         </div>
-        <div>Fonte dos dados: será definida na Fase 4</div>
+        <div>Fonte dos dados: arquivo public/trilhas.json (valores aproximados)</div>
       </div>
     </footer>
   )
