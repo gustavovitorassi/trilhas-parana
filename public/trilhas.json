@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Morro Pão de Loth",
+    "cidade": "Quatro Barras – PR",
+    "dificuldade": "Fácil",
+    "distancia": "9 km",
+    "duracao": "≈ 2 h",
+    "altitude": "1.300 m",
+    "descricao": "Subida curta e bem sinalizada, boa para começar. Do alto se vê a represa de Piraquara e Curitiba."
+  },
+  {
+    "nome": "Morro da Palha",
+    "cidade": "Campo Magro – PR",
+    "dificuldade": "Fácil",
+    "distancia": "—",
+    "duracao": "≈ 2 h",
+    "altitude": "1.190 m",
+    "descricao": "Passeio em família com vista panorâmica da região e estrutura simples ao pé do morro."
+  },
+  {
+    "nome": "Morro do Cal",
+    "cidade": "Campo Largo – PR",
+    "dificuldade": "Fácil",
+    "distancia": "—",
+    "duracao": "1 a 2 h",
+    "altitude": "1.120 m",
+    "descricao": "Trilha sem dificuldade técnica, por estrada de chão ou mata. Fica em propriedade privada, com camping, restaurante e taxa de entrada."
+  },
+  {
+    "nome": "Morro do Canal",
+    "cidade": "Piraquara – PR",
+    "dificuldade": "Moderada",
+    "distancia": "—",
+    "duracao": "< 1 h",
+    "altitude": "—",
+    "descricao": "Trilha sinalizada, com cordas e correntes nos trechos mais difíceis. Do alto se vê Paranaguá e Antonina."
+  },
+  {
+    "nome": "Morro do Anhangava",
+    "cidade": "Quatro Barras – PR",
+    "dificuldade": "Moderada",
+    "distancia": "8 km",
+    "duracao": "≈ 2 h",
+    "altitude": "1.420 m",
+    "descricao": "Conhecido pela escalada em rocha, com vista de Curitiba e da Serra do Mar."
+  },
+  {
+    "nome": "Caminho do Itupava",
+    "cidade": "Quatro Barras / Morretes – PR",
+    "dificuldade": "Moderada",
+    "distancia": "22 km",
+    "duracao": "≈ 7 h",
+    "altitude": "—",
+    "descricao": "Caminho histórico de pedra entre a serra e o litoral. Longo e cansativo, mas sem trechos técnicos."
+  },
+  {
+    "nome": "Pico do Marumbi",
+    "cidade": "Morretes – PR",
+    "dificuldade": "Difícil",
+    "distancia": "14 km",
+    "duracao": "5 a 8 h",
+    "altitude": "1.539 m",
+    "descricao": "Trilha longa no Parque Estadual do Marumbi, na Serra do Mar. Os 14 km são de ida e volta."
+  },
+  {
+    "nome": "Pico Caratuva",
+    "cidade": "Campina Grande do Sul – PR",
+    "dificuldade": "Difícil",
+    "distancia": "5 km",
+    "duracao": "≈ 5,5 h",
+    "altitude": "1.860 m",
+    "descricao": "Segunda maior montanha do Sul do Brasil, no Parque Estadual Pico Paraná. Os 5 km e o tempo são só de ida."
+  },
+  {
+    "nome": "Torre da Prata",
+    "cidade": "Morretes – PR",
+    "dificuldade": "Difícil",
+    "distancia": "≈ 7 km",
+    "duracao": "4 a 6 h",
+    "altitude": "≈ 1.490 m",
+    "descricao": "Ponto mais alto da Serra da Prata, no Parque Nacional Saint-Hilaire/Lange. Subida longa e exigente. Os 7 km são só de ida."
+  },
+  {
+    "nome": "Pico Paraná",
+    "cidade": "Campina Grande do Sul – PR",
+    "dificuldade": "Difícil",
+    "distancia": "8 km",
+    "duracao": "≈ 7 h",
+    "altitude": "1.877 m",
+    "descricao": "Ponto mais alto do Sul do Brasil, com raízes, grampos de ferro e subida constante. Os 8 km são só de ida."
+  }
+]
